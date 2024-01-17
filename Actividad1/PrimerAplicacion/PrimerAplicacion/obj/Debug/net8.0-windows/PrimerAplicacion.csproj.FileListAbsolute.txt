@@ -1,0 +1,16 @@
+C:\Users\Verdi\OneDrive\Documentos\UDLAP\Plan de estudios\6_Sexto semestre\Graficación y videojuegos\PrimerAplicacion\PrimerAplicacion\bin\Debug\net8.0-windows\PrimerAplicacion.exe
+C:\Users\Verdi\OneDrive\Documentos\UDLAP\Plan de estudios\6_Sexto semestre\Graficación y videojuegos\PrimerAplicacion\PrimerAplicacion\bin\Debug\net8.0-windows\PrimerAplicacion.deps.json
+C:\Users\Verdi\OneDrive\Documentos\UDLAP\Plan de estudios\6_Sexto semestre\Graficación y videojuegos\PrimerAplicacion\PrimerAplicacion\bin\Debug\net8.0-windows\PrimerAplicacion.runtimeconfig.json
+C:\Users\Verdi\OneDrive\Documentos\UDLAP\Plan de estudios\6_Sexto semestre\Graficación y videojuegos\PrimerAplicacion\PrimerAplicacion\bin\Debug\net8.0-windows\PrimerAplicacion.dll
+C:\Users\Verdi\OneDrive\Documentos\UDLAP\Plan de estudios\6_Sexto semestre\Graficación y videojuegos\PrimerAplicacion\PrimerAplicacion\bin\Debug\net8.0-windows\PrimerAplicacion.pdb
+C:\Users\Verdi\OneDrive\Documentos\UDLAP\Plan de estudios\6_Sexto semestre\Graficación y videojuegos\PrimerAplicacion\PrimerAplicacion\obj\Debug\net8.0-windows\PrimerAplicacion.Form1.resources
+C:\Users\Verdi\OneDrive\Documentos\UDLAP\Plan de estudios\6_Sexto semestre\Graficación y videojuegos\PrimerAplicacion\PrimerAplicacion\obj\Debug\net8.0-windows\PrimerAplicacion.csproj.GenerateResource.cache
+C:\Users\Verdi\OneDrive\Documentos\UDLAP\Plan de estudios\6_Sexto semestre\Graficación y videojuegos\PrimerAplicacion\PrimerAplicacion\obj\Debug\net8.0-windows\PrimerAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Verdi\OneDrive\Documentos\UDLAP\Plan de estudios\6_Sexto semestre\Graficación y videojuegos\PrimerAplicacion\PrimerAplicacion\obj\Debug\net8.0-windows\PrimerAplicacion.AssemblyInfoInputs.cache
+C:\Users\Verdi\OneDrive\Documentos\UDLAP\Plan de estudios\6_Sexto semestre\Graficación y videojuegos\PrimerAplicacion\PrimerAplicacion\obj\Debug\net8.0-windows\PrimerAplicacion.AssemblyInfo.cs
+C:\Users\Verdi\OneDrive\Documentos\UDLAP\Plan de estudios\6_Sexto semestre\Graficación y videojuegos\PrimerAplicacion\PrimerAplicacion\obj\Debug\net8.0-windows\PrimerAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Verdi\OneDrive\Documentos\UDLAP\Plan de estudios\6_Sexto semestre\Graficación y videojuegos\PrimerAplicacion\PrimerAplicacion\obj\Debug\net8.0-windows\PrimerAplicacion.dll
+C:\Users\Verdi\OneDrive\Documentos\UDLAP\Plan de estudios\6_Sexto semestre\Graficación y videojuegos\PrimerAplicacion\PrimerAplicacion\obj\Debug\net8.0-windows\refint\PrimerAplicacion.dll
+C:\Users\Verdi\OneDrive\Documentos\UDLAP\Plan de estudios\6_Sexto semestre\Graficación y videojuegos\PrimerAplicacion\PrimerAplicacion\obj\Debug\net8.0-windows\PrimerAplicacion.pdb
+C:\Users\Verdi\OneDrive\Documentos\UDLAP\Plan de estudios\6_Sexto semestre\Graficación y videojuegos\PrimerAplicacion\PrimerAplicacion\obj\Debug\net8.0-windows\PrimerAplicacion.genruntimeconfig.cache
+C:\Users\Verdi\OneDrive\Documentos\UDLAP\Plan de estudios\6_Sexto semestre\Graficación y videojuegos\PrimerAplicacion\PrimerAplicacion\obj\Debug\net8.0-windows\ref\PrimerAplicacion.dll
