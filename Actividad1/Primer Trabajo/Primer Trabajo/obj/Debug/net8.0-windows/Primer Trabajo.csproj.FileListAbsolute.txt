@@ -1,0 +1,17 @@
+C:\Users\Verdi\OneDrive\Documentos\Sexto semestre\Graficación y videojuegos\Primer Trabajo\Primer Trabajo\bin\Debug\net8.0-windows\Primer Trabajo.exe
+C:\Users\Verdi\OneDrive\Documentos\Sexto semestre\Graficación y videojuegos\Primer Trabajo\Primer Trabajo\bin\Debug\net8.0-windows\Primer Trabajo.deps.json
+C:\Users\Verdi\OneDrive\Documentos\Sexto semestre\Graficación y videojuegos\Primer Trabajo\Primer Trabajo\bin\Debug\net8.0-windows\Primer Trabajo.runtimeconfig.json
+C:\Users\Verdi\OneDrive\Documentos\Sexto semestre\Graficación y videojuegos\Primer Trabajo\Primer Trabajo\bin\Debug\net8.0-windows\Primer Trabajo.dll
+C:\Users\Verdi\OneDrive\Documentos\Sexto semestre\Graficación y videojuegos\Primer Trabajo\Primer Trabajo\bin\Debug\net8.0-windows\Primer Trabajo.pdb
+C:\Users\Verdi\OneDrive\Documentos\Sexto semestre\Graficación y videojuegos\Primer Trabajo\Primer Trabajo\obj\Debug\net8.0-windows\Primer_Trabajo.Form1.resources
+C:\Users\Verdi\OneDrive\Documentos\Sexto semestre\Graficación y videojuegos\Primer Trabajo\Primer Trabajo\obj\Debug\net8.0-windows\Primer Trabajo.csproj.GenerateResource.cache
+C:\Users\Verdi\OneDrive\Documentos\Sexto semestre\Graficación y videojuegos\Primer Trabajo\Primer Trabajo\obj\Debug\net8.0-windows\Primer Trabajo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Verdi\OneDrive\Documentos\Sexto semestre\Graficación y videojuegos\Primer Trabajo\Primer Trabajo\obj\Debug\net8.0-windows\Primer Trabajo.AssemblyInfoInputs.cache
+C:\Users\Verdi\OneDrive\Documentos\Sexto semestre\Graficación y videojuegos\Primer Trabajo\Primer Trabajo\obj\Debug\net8.0-windows\Primer Trabajo.AssemblyInfo.cs
+C:\Users\Verdi\OneDrive\Documentos\Sexto semestre\Graficación y videojuegos\Primer Trabajo\Primer Trabajo\obj\Debug\net8.0-windows\Primer Trabajo.csproj.CoreCompileInputs.cache
+C:\Users\Verdi\OneDrive\Documentos\Sexto semestre\Graficación y videojuegos\Primer Trabajo\Primer Trabajo\obj\Debug\net8.0-windows\Primer Trabajo.sourcelink.json
+C:\Users\Verdi\OneDrive\Documentos\Sexto semestre\Graficación y videojuegos\Primer Trabajo\Primer Trabajo\obj\Debug\net8.0-windows\Primer Trabajo.dll
+C:\Users\Verdi\OneDrive\Documentos\Sexto semestre\Graficación y videojuegos\Primer Trabajo\Primer Trabajo\obj\Debug\net8.0-windows\refint\Primer Trabajo.dll
+C:\Users\Verdi\OneDrive\Documentos\Sexto semestre\Graficación y videojuegos\Primer Trabajo\Primer Trabajo\obj\Debug\net8.0-windows\Primer Trabajo.pdb
+C:\Users\Verdi\OneDrive\Documentos\Sexto semestre\Graficación y videojuegos\Primer Trabajo\Primer Trabajo\obj\Debug\net8.0-windows\Primer Trabajo.genruntimeconfig.cache
+C:\Users\Verdi\OneDrive\Documentos\Sexto semestre\Graficación y videojuegos\Primer Trabajo\Primer Trabajo\obj\Debug\net8.0-windows\ref\Primer Trabajo.dll
