@@ -1,0 +1,20 @@
+C:\Users\melis\OneDrive\Escritorio\UNIVERSIDAD\GRAFICACION Y VIDEOJUEGOS\Motor_Grafico-master\Motor_Grafico\bin\Debug\Motor_Grafico.exe.config
+C:\Users\melis\OneDrive\Escritorio\UNIVERSIDAD\GRAFICACION Y VIDEOJUEGOS\Motor_Grafico-master\Motor_Grafico\bin\Debug\Motor_Grafico.exe
+C:\Users\melis\OneDrive\Escritorio\UNIVERSIDAD\GRAFICACION Y VIDEOJUEGOS\Motor_Grafico-master\Motor_Grafico\bin\Debug\Motor_Grafico.pdb
+C:\Users\melis\OneDrive\Escritorio\UNIVERSIDAD\GRAFICACION Y VIDEOJUEGOS\Motor_Grafico-master\Motor_Grafico\obj\Debug\Motor_Grafico.csproj.AssemblyReference.cache
+C:\Users\melis\OneDrive\Escritorio\UNIVERSIDAD\GRAFICACION Y VIDEOJUEGOS\Motor_Grafico-master\Motor_Grafico\obj\Debug\Motor_Grafico.Form1.resources
+C:\Users\melis\OneDrive\Escritorio\UNIVERSIDAD\GRAFICACION Y VIDEOJUEGOS\Motor_Grafico-master\Motor_Grafico\obj\Debug\Motor_Grafico.Properties.Resources.resources
+C:\Users\melis\OneDrive\Escritorio\UNIVERSIDAD\GRAFICACION Y VIDEOJUEGOS\Motor_Grafico-master\Motor_Grafico\obj\Debug\Motor_Grafico.csproj.GenerateResource.cache
+C:\Users\melis\OneDrive\Escritorio\UNIVERSIDAD\GRAFICACION Y VIDEOJUEGOS\Motor_Grafico-master\Motor_Grafico\obj\Debug\Motor_Grafico.csproj.CoreCompileInputs.cache
+C:\Users\melis\OneDrive\Escritorio\UNIVERSIDAD\GRAFICACION Y VIDEOJUEGOS\Motor_Grafico-master\Motor_Grafico\obj\Debug\Motor_Grafico.exe
+C:\Users\melis\OneDrive\Escritorio\UNIVERSIDAD\GRAFICACION Y VIDEOJUEGOS\Motor_Grafico-master\Motor_Grafico\obj\Debug\Motor_Grafico.pdb
+C:\Users\Verdi\Downloads\Motor_Grafico-master\Motor_Grafico-master\Motor_Grafico\bin\Debug\Motor_Grafico.exe.config
+C:\Users\Verdi\Downloads\Motor_Grafico-master\Motor_Grafico-master\Motor_Grafico\bin\Debug\Motor_Grafico.exe
+C:\Users\Verdi\Downloads\Motor_Grafico-master\Motor_Grafico-master\Motor_Grafico\bin\Debug\Motor_Grafico.pdb
+C:\Users\Verdi\Downloads\Motor_Grafico-master\Motor_Grafico-master\Motor_Grafico\obj\Debug\Motor_Grafico.csproj.AssemblyReference.cache
+C:\Users\Verdi\Downloads\Motor_Grafico-master\Motor_Grafico-master\Motor_Grafico\obj\Debug\Motor_Grafico.Form1.resources
+C:\Users\Verdi\Downloads\Motor_Grafico-master\Motor_Grafico-master\Motor_Grafico\obj\Debug\Motor_Grafico.Properties.Resources.resources
+C:\Users\Verdi\Downloads\Motor_Grafico-master\Motor_Grafico-master\Motor_Grafico\obj\Debug\Motor_Grafico.csproj.GenerateResource.cache
+C:\Users\Verdi\Downloads\Motor_Grafico-master\Motor_Grafico-master\Motor_Grafico\obj\Debug\Motor_Grafico.csproj.CoreCompileInputs.cache
+C:\Users\Verdi\Downloads\Motor_Grafico-master\Motor_Grafico-master\Motor_Grafico\obj\Debug\Motor_Grafico.exe
+C:\Users\Verdi\Downloads\Motor_Grafico-master\Motor_Grafico-master\Motor_Grafico\obj\Debug\Motor_Grafico.pdb
