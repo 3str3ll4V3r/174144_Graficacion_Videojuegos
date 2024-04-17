@@ -1,0 +1,14 @@
+D:\3DEngine-master\PLAYGROUND\bin\Debug\PLAYGROUND.exe.config
+D:\3DEngine-master\PLAYGROUND\bin\Debug\PLAYGROUND.exe.manifest
+D:\3DEngine-master\PLAYGROUND\bin\Debug\PLAYGROUND.application
+D:\3DEngine-master\PLAYGROUND\bin\Debug\PLAYGROUND.exe
+D:\3DEngine-master\PLAYGROUND\bin\Debug\PLAYGROUND.pdb
+D:\3DEngine-master\PLAYGROUND\obj\x86\Debug\PLAYGROUND.csproj.AssemblyReference.cache
+D:\3DEngine-master\PLAYGROUND\obj\x86\Debug\PLAYGROUND.MyForm.resources
+D:\3DEngine-master\PLAYGROUND\obj\x86\Debug\PLAYGROUND.Properties.Resources.resources
+D:\3DEngine-master\PLAYGROUND\obj\x86\Debug\PLAYGROUND.csproj.GenerateResource.cache
+D:\3DEngine-master\PLAYGROUND\obj\x86\Debug\PLAYGROUND.csproj.CoreCompileInputs.cache
+D:\3DEngine-master\PLAYGROUND\obj\x86\Debug\PLAYGROUND.exe.manifest
+D:\3DEngine-master\PLAYGROUND\obj\x86\Debug\PLAYGROUND.application
+D:\3DEngine-master\PLAYGROUND\obj\x86\Debug\PLAYGROUND.exe
+D:\3DEngine-master\PLAYGROUND\obj\x86\Debug\PLAYGROUND.pdb

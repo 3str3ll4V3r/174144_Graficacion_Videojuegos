@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="PLAYGROUND.exe" version="1.0.0.0" publicKeyToken="bc285cfde7d0747e" language="neutral" processorArchitecture="x86" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="PLAYGROUND" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="PLAYGROUND.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Opciones del manifiesto de Control de cuentas de usuario
+          Si quiere cambiar el nivel de Control de cuentas de usuario de Windows, reemplace el
+          nodo requestedExecutionLevel por alguno de los siguientes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Si desea usar la virtualización de archivos y del Registro para la
+         compatibilidad con versiones anteriores, elimine el nodo requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="PLAYGROUND.exe" size="58824">
+      <assemblyIdentity name="PLAYGROUND" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>6z10z4tdrCwtZtkKrNGpxBtptM2/FCGIdpEYCctlRI0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="PLAYGROUND.exe.config" size="161">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>1hvekB5xicyX1FodTEqjnUxN4raEGXc+x3QzhQbWWa0=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=ESTRELLAVER\Verdi" issuerKeyHash="5138d03b1469a8ba781bf255b82bf5b9b5e729a6" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>rz47cCnZxcLU9BsQRjmsFCvpqGr/UqpVZ3XUQHCIhfI=</DigestValue></Reference></SignedInfo><SignatureValue>bXuiR8D9HNM/xvq1ADX13sWeFeOjzKYJdoIlgm4T4y/i9ZPTuD3TuRjywystJmL8H9e2rkNH2IQd87xILi8GWT8UVj98pfLcmMC8mKYwkItR6xW88ue6e3lVvv8X//kNzmJ194QhkSbib7N1j6ZYPTv4wkNWbQjN5VzR0bwzoEs=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>19vbKQbJQcOqiu0Rg8u+PP6RS8pWQBpEOFZ52Ez3IXhv20IQUh+YckHBEP2uk5vumHO7+Zn7W2ELg5frKG8gcqkWmCG8cjpGEhpAnIzDyQpZ9a/30JripLqY3MG9n05IZXdqUcVWjaqrEhieDESl8YQa2FmsbYwS8GGM0pRceO0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="f285887040d4756755aa52ff6aa8e92b14ac3946101bf4d4c2c5d929703b3eaf" Description="" Url=""><as:assemblyIdentity name="PLAYGROUND.exe" version="1.0.0.0" publicKeyToken="bc285cfde7d0747e" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=ESTRELLAVER\Verdi</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>KCAxdLeR/xAT9nlptKedIMNxL/xntMovQlRGUarKxMM=</DigestValue></Reference></SignedInfo><SignatureValue>OOOBD22HeO5l4uHCNb7XNh5C1fLeoufH9rRfahe+pSqDW+fNpK+xzb5m+/yEFUnr8Jzg5DzcMss0SWh1DghB7VlNYgC2A3ETnsOWzeFXAy1IKsw08LtOQ6GSY0N0Gwhw27R51UR/wH2i7lkcG+0thel2VNz+f49eJgwFcEB1S10=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>19vbKQbJQcOqiu0Rg8u+PP6RS8pWQBpEOFZ52Ez3IXhv20IQUh+YckHBEP2uk5vumHO7+Zn7W2ELg5frKG8gcqkWmCG8cjpGEhpAnIzDyQpZ9a/30JripLqY3MG9n05IZXdqUcVWjaqrEhieDESl8YQa2FmsbYwS8GGM0pRceO0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB3TCCAUagAwIBAgIQeO+CE0LOhrFLzmWhiEjKLDANBgkqhkiG9w0BAQsFADAtMSswKQYDVQQDHiIARQBTAFQAUgBFAEwATABBAFYARQBSAFwAVgBlAHIAZABpMB4XDTI0MDQxNzIwMTU0MloXDTI1MDQxODAyMTU0MlowLTErMCkGA1UEAx4iAEUAUwBUAFIARQBMAEwAQQBWAEUAUgBcAFYAZQByAGQAaTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA19vbKQbJQcOqiu0Rg8u+PP6RS8pWQBpEOFZ52Ez3IXhv20IQUh+YckHBEP2uk5vumHO7+Zn7W2ELg5frKG8gcqkWmCG8cjpGEhpAnIzDyQpZ9a/30JripLqY3MG9n05IZXdqUcVWjaqrEhieDESl8YQa2FmsbYwS8GGM0pRceO0CAwEAATANBgkqhkiG9w0BAQsFAAOBgQCSZvf3O0j7cbq6iS60aOqh85fWZ0oJiui82Gj24aWm9YKK35pxS6BMnY9KpBH7VdEM9Nec4vYKxcMTApD23Nj8bI9sJzuvEZNLF0nEfJC/YSJZNEXQsy38EVN424qc/flbTHxc008NDSm18V7G9TZOthkmV0FhGOYjnGNTMSIOAg==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
