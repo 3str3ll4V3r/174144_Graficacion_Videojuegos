@@ -1,0 +1,27 @@
+E:\DOCS\CLASES\PLAYGROUND\PLAYGROUND\bin\Debug\PLAYGROUND.exe
+E:\DOCS\CLASES\PLAYGROUND\PLAYGROUND\bin\Debug\PLAYGROUND.pdb
+E:\DOCS\CLASES\PLAYGROUND\PLAYGROUND\obj\x86\Debug\PLAYGROUND.MyForm.resources
+E:\DOCS\CLASES\PLAYGROUND\PLAYGROUND\obj\x86\Debug\PLAYGROUND.Properties.Resources.resources
+E:\DOCS\CLASES\PLAYGROUND\PLAYGROUND\obj\x86\Debug\PLAYGROUND.csproj.GenerateResource.Cache
+E:\DOCS\CLASES\PLAYGROUND\PLAYGROUND\obj\x86\Debug\PLAYGROUND.exe
+E:\DOCS\CLASES\PLAYGROUND\PLAYGROUND\obj\x86\Debug\PLAYGROUND.pdb
+C:\Users\koqui\source\repos\3D_ENGINE\PLAYGROUND\bin\Debug\PLAYGROUND.exe.config
+C:\Users\koqui\source\repos\3D_ENGINE\PLAYGROUND\bin\Debug\PLAYGROUND.exe
+C:\Users\koqui\source\repos\3D_ENGINE\PLAYGROUND\bin\Debug\PLAYGROUND.pdb
+C:\Users\koqui\source\repos\3D_ENGINE\PLAYGROUND\obj\x86\Debug\PLAYGROUND.csproj.AssemblyReference.cache
+C:\Users\koqui\source\repos\3D_ENGINE\PLAYGROUND\obj\x86\Debug\PLAYGROUND.MyForm.resources
+C:\Users\koqui\source\repos\3D_ENGINE\PLAYGROUND\obj\x86\Debug\PLAYGROUND.Properties.Resources.resources
+C:\Users\koqui\source\repos\3D_ENGINE\PLAYGROUND\obj\x86\Debug\PLAYGROUND.csproj.GenerateResource.cache
+C:\Users\koqui\source\repos\3D_ENGINE\PLAYGROUND\obj\x86\Debug\PLAYGROUND.csproj.CoreCompileInputs.cache
+C:\Users\koqui\source\repos\3D_ENGINE\PLAYGROUND\obj\x86\Debug\PLAYGROUND.exe
+C:\Users\koqui\source\repos\3D_ENGINE\PLAYGROUND\obj\x86\Debug\PLAYGROUND.pdb
+D:\3DEngine 2.0\3D_ENGINE\3D_ENGINE\PLAYGROUND\bin\Debug\PLAYGROUND.exe.config
+D:\3DEngine 2.0\3D_ENGINE\3D_ENGINE\PLAYGROUND\bin\Debug\PLAYGROUND.exe
+D:\3DEngine 2.0\3D_ENGINE\3D_ENGINE\PLAYGROUND\bin\Debug\PLAYGROUND.pdb
+D:\3DEngine 2.0\3D_ENGINE\3D_ENGINE\PLAYGROUND\obj\x86\Debug\PLAYGROUND.csproj.AssemblyReference.cache
+D:\3DEngine 2.0\3D_ENGINE\3D_ENGINE\PLAYGROUND\obj\x86\Debug\PLAYGROUND.MyForm.resources
+D:\3DEngine 2.0\3D_ENGINE\3D_ENGINE\PLAYGROUND\obj\x86\Debug\PLAYGROUND.Properties.Resources.resources
+D:\3DEngine 2.0\3D_ENGINE\3D_ENGINE\PLAYGROUND\obj\x86\Debug\PLAYGROUND.csproj.GenerateResource.cache
+D:\3DEngine 2.0\3D_ENGINE\3D_ENGINE\PLAYGROUND\obj\x86\Debug\PLAYGROUND.csproj.CoreCompileInputs.cache
+D:\3DEngine 2.0\3D_ENGINE\3D_ENGINE\PLAYGROUND\obj\x86\Debug\PLAYGROUND.exe
+D:\3DEngine 2.0\3D_ENGINE\3D_ENGINE\PLAYGROUND\obj\x86\Debug\PLAYGROUND.pdb
